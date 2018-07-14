@@ -1,4 +1,4 @@
-package me.jakjak.bluetoothprinter.model
+package me.jakjak.bluetoothprinter.mvvm.model
 
 import java.util.*
 

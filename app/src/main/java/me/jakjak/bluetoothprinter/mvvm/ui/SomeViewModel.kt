@@ -1,7 +1,7 @@
-package me.jakjak.bluetoothprinter.ui
+package me.jakjak.bluetoothprinter.mvvm.ui
 
 import android.arch.lifecycle.ViewModel
-import me.jakjak.bluetoothprinter.model.ThingModel
+import me.jakjak.bluetoothprinter.mvvm.model.ThingModel
 import java.util.*
 
 class SomeViewModel(private val thing : ThingModel) : Observer, ViewModel() {
